@@ -63,10 +63,6 @@ Chang Jung Christian University
 Taiwan
 ## Web Application Demo
 
-![System Demo](system_demo.png)
-
----
-
 ## Research Poster
 
-![Poster](肺腺癌分類與關鍵基因預測系統.png)
+![Poster](poster.png)
