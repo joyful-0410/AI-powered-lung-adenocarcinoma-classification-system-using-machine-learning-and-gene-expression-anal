@@ -60,7 +60,7 @@ Scan the QR code below to access the lung cancer classification system.
 
 ## Research Poster
 
-![Poster](poster.png)
+![Poster](poster.png.png)
 
 ---
 
