@@ -60,7 +60,7 @@ Scan the QR code below to access the lung cancer classification system.
 
 ## Research Poster
 
-![Poster](利用基因表達資料的機器學習分析 海報2.png)
+![Poster](poster.png)
 
 ---
 
