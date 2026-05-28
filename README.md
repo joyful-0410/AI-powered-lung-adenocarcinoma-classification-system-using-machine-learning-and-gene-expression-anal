@@ -1,3 +1,9 @@
+## Live Demo
+
+Try the deployed Streamlit application here:
+
+https://lung-cancer-predictor1.streamlit.app/
+
 # Lung Adenocarcinoma Classification Project
 
 ## Project Overview
