@@ -10,10 +10,10 @@ The goal of this project is to identify important biomarkers and build predictiv
 
 ## Research Objectives
 
-- Analyze gene expression patterns
-- Identify key genes related to lung adenocarcinoma
-- Compare machine learning classification models
-- Improve cancer prediction accuracy
+* Analyze gene expression patterns
+* Identify key genes related to lung adenocarcinoma
+* Compare machine learning classification models
+* Improve cancer prediction accuracy
 
 ---
 
@@ -21,48 +21,52 @@ The goal of this project is to identify important biomarkers and build predictiv
 
 The following methods were used in this project:
 
-- Random Forest
-- Support Vector Machine (SVM)
-- Feature Selection
-- Heatmap Visualization
-- ROC Curve Analysis
+* Random Forest
+* Support Vector Machine (SVM)
+* Feature Selection
+* Heatmap Visualization
+* ROC Curve Analysis
 
 ---
 
 ## Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Streamlit
 
 ---
 
 ## Project Files
 
-- Research poster
-- Presentation slides
-- Machine learning system
-- Visualization results
+* Research poster
+* Machine learning classification system
+* Data visualization
+* Presentation slides
 
 ---
 
-## Project Poster
+## Lung Cancer AI System QR Code
 
-![Poster](肺腺癌分類與關鍵基因預測系統.png)
+Scan the QR code below to access the lung cancer classification system.
+
+![QR Code](肺腺癌分類與關鍵基因預測系統.png)
+
+---
+
+## Research Poster
+
+![Poster](利用基因表達資料的機器學習分析 海報2.png)
 
 ---
 
 ## Author
 
-Kang-Sheng Liu  
-Department of Biotechnology  
-Chang Jung Christian University  
+Kang-Sheng Liu
+Department of Biotechnology
+Chang Jung Christian University
 Taiwan
-## Web Application Demo
-
-## Research Poster
-
-![Poster](poster.png)
