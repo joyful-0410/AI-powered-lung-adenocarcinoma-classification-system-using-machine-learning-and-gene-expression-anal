@@ -77,6 +77,8 @@ Scan the QR code below to access the lung cancer classification system.
 * Improve feature selection
 * Add survival analysis
 * Deploy advanced AI models
+
+---
   
 ## Author
 Kang-Sheng Liu
